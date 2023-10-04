@@ -1,0 +1,4 @@
+Host: 192.168.2.14
+User: ssvv
+Password: ssvv
+Database: ventas
